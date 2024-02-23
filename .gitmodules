@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Elevate-Your-Brand-ui"]
+	path = UBOS-template-Elevate-Your-Brand-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Elevate-Your-Brand-ui.git
+	branch = main
+[submodule "UBOS-template-Elevate-Your-Brand-nr"]
+	path = UBOS-template-Elevate-Your-Brand-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Elevate-Your-Brand-nr.git
+	branch = origin
